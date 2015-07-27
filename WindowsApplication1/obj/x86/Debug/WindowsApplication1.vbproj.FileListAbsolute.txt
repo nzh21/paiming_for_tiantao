@@ -1,0 +1,45 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Interop.Excel.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.Excel.dll
+C:\Users\Administrator\Desktop\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Administrator\Desktop\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Administrator\Desktop\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Administrator\Desktop\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Administrator\Desktop\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Administrator\Desktop\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+C:\Users\Administrator\Desktop\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.application
+C:\Users\Administrator\Desktop\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.TrustInfo.xml
+C:\Users\Administrator\Desktop\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe.manifest
+C:\Users\Administrator\Desktop\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.application
+C:\Users\Administrator\Desktop\新建文件夹 (3)\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Administrator\Desktop\新建文件夹 (3)\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+C:\Users\Administrator\Desktop\新建文件夹 (3)\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.application
+C:\Users\Administrator\Desktop\新建文件夹 (3)\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Administrator\Desktop\新建文件夹 (3)\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (3)\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Administrator\Desktop\新建文件夹 (3)\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.Excel.dll
+C:\Users\Administrator\Desktop\新建文件夹 (3)\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (3)\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\新建文件夹 (3)\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹 (3)\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹 (3)\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.TrustInfo.xml
+C:\Users\Administrator\Desktop\新建文件夹 (3)\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe.manifest
+C:\Users\Administrator\Desktop\新建文件夹 (3)\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.application
+C:\Users\Administrator\Desktop\新建文件夹 (3)\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Administrator\Desktop\新建文件夹 (3)\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Administrator\Desktop\新建文件夹 (3)\新建文件夹 (4)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
